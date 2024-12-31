@@ -1,0 +1,16 @@
+2024-12-31 00:40:31.701 [main] INFO  c.g.prcreator.service.GitHubService - Creating GitHub service for user: aliharirirwth
+2024-12-31 00:40:32.257 [main] INFO  c.g.prcreator.service.GitHubService - Successfully authenticated as: aliharirirwth
+2024-12-31 00:40:32.257 [main] INFO  c.g.prcreator.service.GitHubService - Fetching repositories for user: aliharirirwth
+2024-12-31 00:40:32.598 [main] INFO  c.g.prcreator.service.GitHubService - Found 7 repositories
+2024-12-31 00:40:32.598 [main] INFO  c.g.prcreator.service.GitHubService - Repository: CodingCallengeComsys (Private: true)
+2024-12-31 00:40:32.598 [main] INFO  c.g.prcreator.service.GitHubService - Repository: JetBrainsInternships (Private: false)
+2024-12-31 00:40:32.598 [main] INFO  c.g.prcreator.service.GitHubService - Repository: PSP-SS22 (Private: true)
+2024-12-31 00:40:32.598 [main] INFO  c.g.prcreator.service.GitHubService - Repository: iOSCalendarApp (Private: true)
+2024-12-31 00:40:32.598 [main] INFO  c.g.prcreator.service.GitHubService - Repository: interactive-3d-web-design (Private: false)
+2024-12-31 00:40:32.598 [main] INFO  c.g.prcreator.service.GitHubService - Repository: interactive-3d-web-design-backend (Private: false)
+2024-12-31 00:40:32.598 [main] INFO  c.g.prcreator.service.GitHubService - Repository: mindX-mindRacing (Private: true)
+2024-12-31 00:40:45.617 [main] INFO  c.g.prcreator.service.GitHubService - Creating PR in repository: JetBrainsInternships (Private: false)
+2024-12-31 00:40:45.618 [main] DEBUG c.g.prcreator.service.GitHubService - Creating branch: feature/add-hello-file-1735602045617
+2024-12-31 00:40:46.104 [main] DEBUG c.g.prcreator.service.GitHubService - Creating file: Hello.txt
+2024-12-31 00:40:46.561 [main] DEBUG c.g.prcreator.service.GitHubService - Creating pull request
+2024-12-31 00:40:47.439 [main] INFO  c.g.prcreator.service.GitHubService - Pull request created: https://github.com/aliharirirwth/JetBrainsInternships/pull/1
